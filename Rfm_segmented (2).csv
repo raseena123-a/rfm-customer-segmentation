@@ -1,0 +1,11 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+1001,13,3,750.0,4,5,4,454,Frequent Buyers
+1002,161,2,950.0,1,3,5,135,Big Spenders
+1003,121,1,150.0,2,1,1,211,At Risk
+1004,4,1,700.0,5,1,4,514,Recent Customers
+1005,96,3,450.0,2,5,2,252,Frequent Buyers
+1006,70,1,330.0,3,2,2,322,Others
+1007,13,2,500.0,4,3,3,433,Others
+1008,226,1,90.0,1,2,1,121,At Risk
+1009,1,2,1300.0,5,4,5,545,Recent Customers
+1010,50,2,590.0,3,4,3,343,Others
