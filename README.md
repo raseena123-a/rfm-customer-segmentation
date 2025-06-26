@@ -1,4 +1,4 @@
- # Customer Segmentation using RFM Analysis
+ # Customer Segmentation Using RFM Analysis
  This project uses Recency, Frequency, and Monetary (RFM) analysis to segment customers and identify key groups for targeted marketing campaigns.
  RFM Analysis for customer segmentation using SQL, Python, and Power BI. Identifies key customer segments to enable targeted marketing and improve engagement by 10%.
 ###  Tools Used:
