@@ -15,7 +15,7 @@ Identify customer segments such as **Champions**, **At Risk**, and **Big Spender
 ###  Dashboard Preview:
 <ahref https://app.powerbi.com/groups/me/reports/a94d45b1-6b11-45ea-9c8b-f4e3dd91c2a6/c5c04e8deee008a195c9?experience=power-bi</ahref>
 ### Dataset:
-<ahref 
+<ahref https://github.com/raseena123-a/rfm-customer-segmentation</ahref>
 ## Conclusion
 This project successfully applied RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior. Using a combination of SQL for data storage, Python for metric calculation, and Power BI for visualization, we identified key customer segments such as:
 Champions
